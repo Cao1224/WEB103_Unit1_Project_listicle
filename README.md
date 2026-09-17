@@ -30,7 +30,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Note: please be sure to 
+
+https://github.com/user-attachments/assets/0fdc35f2-3ce3-4d6e-8c6f-999260809134
+
 
 Here's a walkthrough of implemented required features:
 
@@ -43,13 +45,11 @@ GIF created with ...  Add GIF tool here
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2026 Yuancheng Cao
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
